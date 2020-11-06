@@ -1,0 +1,5 @@
+The hw4.py is a change algorithm that read the text file "data.txt" that contains three values c, k, and n. The result is displayed in "chang.txt". Every two numbers are separated by commas, the first number represents the denomination, and the second number represents the base of the denomination in the solution.
+
+Complier for hw4.py
+complier and run: enter"python hw4.py" on the commentline
+The the file list will shows "change.txt" that shows the result in the file.

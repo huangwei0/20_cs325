@@ -1,0 +1,27 @@
+The insertsort.cpp is use inset sort algorithm to make the integers in data.text have a correct sequence.
+The mergesort.cpp is use merge sort algorithm to make the integers in data.text have a correct sequence.
+The inserTime.cpp is check the time for sort the integer by insert SORT.
+The mergeTime.cpp is check the time for sort the integer by megrt SORT.
+
+Complier for insertsort.cpp
+complier: enter"g++ insertsort.cpp" on the commentline
+run: enter "a.out"
+Then the file list will shows file call "insert.out" that will shows the correct sequence of integers.
+
+Complier for mergesort.cpp
+complier: enter"g++ mergesort.cpp" on the commentline
+run: enter "a.out"
+Then the file list will shows file call "merge.out" that will shows the correct sequence of integers.
+
+For my meges sort that only can sequence the integer for the first line, so you only can see the correct sequence of integers for first line.
+
+
+Complier for inserTime.cpp
+complier: enter"gcc insertTime.cpp" on the commentline
+run: enter "a.out"
+The the file list will shows "InserTimesAvg.out" that shows the time cost of insert sort to sequence
+
+Complier for inserTime.cpp
+complier: enter"gcc mergeTime.cpp" on the commentline
+run: enter "a.out"
+The the file list will shows "mergeTimesAvg.out" that shows the time cost of merge sort to sequence 

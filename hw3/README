@@ -1,0 +1,5 @@
+The hw3.py implement a bottom-up dynamic programming algorithm for the backpack problem.
+
+Complier for hw3.py
+complier and run: enter"python hw3.py" on the commentline
+The scree will shows the information from the data.txt and maximum value.

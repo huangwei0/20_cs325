@@ -1,0 +1,10 @@
+hw5.cpp reads files and classifies Babyface and Heels, if it is posssible.
+
+Complier for hw5.cpp
+complier: g++ hw5.cpp
+run: a.out +[file name]
+ex:  a.out input.txt //The file I created is called "input.txt"
+
+Output: The result is output to the terminal.
+ Yes, if possible, followed by a list of Babyface wrestlers and a list of high heels.
+ No, if not possible.

@@ -1,0 +1,28 @@
+The badsort.cpp is use inset sort algorithm to make the integers in data.text have a correct sequence.
+The badSortTime.cpp is check the time for sort the integer by bad SORT that α = 2/3
+The badtime.cpp is check the time for sort the integer by bad SORT that α = 3/4
+
+Complier for badsort.cpp
+complier: enter"g++ badtsort.cpp" on the commentline
+run: enter "a.out"
+Then the file list will shows file call "bad.out" that will shows the correct sequence of integers.
+
+Complier for badsortTime.cpp
+complier: enter"g++ badsortTime.cpp" on the commentline
+run: enter "a.out"
+The scree will shows "Enter array size: "
+The user should input the array size---like 5000,10000,15000,20000,25000,30000,35000
+Them, the screen will shows the time cost for sort the integer by bad SORT that α = 2/3.
+
+
+Complier for badtime.cpp
+complier: enter"g++ badtime.cpp" on the commentline
+run: enter "a.out"
+The scree will shows "Enter array size: "
+The user should input the array size---like 5000,10000,15000,20000,25000,30000,35000
+Them, the screen will shows the time cost for sort the integer by bad SORTthat α = 3/4.
+
+
+The project of badtime.cpp and badsortTime.cpp run time is very long if the array size is large. If you input the small array size that the running time will be short.
+For example:
+n = 50,100,150,200,250,300
